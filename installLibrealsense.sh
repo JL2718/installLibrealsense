@@ -8,7 +8,7 @@
 sudo apt-get install libusb-1.0-0-dev
 # Install librealsense into home directory
 cd ~/
-git clone https://github.com/IntelRealSense/librealsense.git
+git clone https://github.com/jl2718/librealsense.git
 cd librealsense
 # Checkout version 0.9.2 of librealsense, last tested version
 git checkout v0.9.2
